@@ -195,6 +195,13 @@ ul { list-style: none; }
   letter-spacing: 0.06em;
 }
 
+.logo-img {
+  height: 48px;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
+
 .header-right {
   display: flex;
   align-items: center;
