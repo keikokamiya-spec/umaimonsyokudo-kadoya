@@ -266,6 +266,8 @@ ul { list-style: none; }
   border: none;
   cursor: pointer;
   padding: 4px;
+  position: relative;
+  z-index: 1001;
 }
 .hamburger span {
   display: block;
